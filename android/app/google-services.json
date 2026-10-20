@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569784435870",
+    "project_id": "petverse-5f863",
+    "storage_bucket": "petverse-5f863.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569784435870:android:120b299ce87e896500678f",
+        "android_client_info": {
+          "package_name": "com.example.pet_verse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDomE-QRdpoEqs3xMoUQ7fX8jEvcpCwfyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
